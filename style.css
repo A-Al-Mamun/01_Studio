@@ -65,6 +65,7 @@ nav{
     width: 25px;
     margin: 20px auto;
     display: block;
+    cursor: pointer;
 }
 
 .menu-items{
