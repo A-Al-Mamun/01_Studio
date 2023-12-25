@@ -71,8 +71,7 @@ nav{
 .menu-items{
     position: absolute;
     top: 0;
-    /* right: 50px; */
-    right: -250px;
+    right: -200px;
     width: 200px;
     height: 100vh;
     background: linear-gradient(#00545d, #000729);
@@ -117,6 +116,34 @@ nav{
     padding: 5px ;
     border: 1px solid #fff;
     cursor: pointer;
+}
+
+.share-btn{}
+.share{
+    position: absolute;
+    top: 0;
+    right: -400px;
+    width: 400px;
+    height: 100vh;
+    background: linear-gradient(#00545d, #000729);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info-btn{
+    
+}
+.info{
+    position: absolute;
+    top: 0;
+    right: -400px;
+    width: 400px;
+    height: 100vh;
+    background: linear-gradient(#00545d, #000729);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
